@@ -24,6 +24,11 @@ Dependencies:
 
 Author: openleanchain
 Date: 2025-08-03
+
+License:
+This script is provided 'as-is', without any express or implied warranty.
+You are free to use, modify, and distribute this code at your own risk.
+The author(s) shall not be held liable for any damages arising from the use of this software.
 """
 
 # Import the os module to interact with the operating system
